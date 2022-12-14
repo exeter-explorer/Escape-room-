@@ -1458,6 +1458,9 @@
       <string id="closed_captions_tip">Toggle captions</string>
       <string id="continue">Continue</string>
       <string id="continueresponsive">Continue</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="acc_playback_speed">playback speed</string>
       <string id="ctrl_key">Ctrl</string>
       <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
       <string id="enter_key">Enter</string>
@@ -1554,6 +1557,7 @@
       <links>
         <slidelink slideid="_player.5w4ggJDUNha" displaytext="Escape Room" expand="true" type="slide">
           <links>
+            <slidelink slideid="_player.5w4ggJDUNha.5uIaSMvnNRE" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5w4ggJDUNha.5j6ImcuwAEB" displaytext="The scenario" expand="false" type="slide" />
             <slidelink slideid="_player.5w4ggJDUNha.6TsCWo4ZKNx" displaytext="Room" expand="false" type="slide" />
             <slidelink slideid="_player.5w4ggJDUNha.6C0vOQLx98p" displaytext="City" expand="false" type="slide" />
